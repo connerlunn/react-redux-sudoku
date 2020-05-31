@@ -11,6 +11,7 @@ colgroup, tbody {
 }
 
 .isGiven {
+    color: blue;
 }
 
 .inline {
