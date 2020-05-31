@@ -6,12 +6,12 @@ table {
 }
 
 colgroup, tbody {
-    border: solid medium; 
-    border-color: black;
+    border: solid medium black; 
 }
 
 .isGiven {
     color: blue;
+    border-color: black;
 }
 
 .inline {
@@ -31,6 +31,8 @@ colgroup, tbody {
     height: 85%;
     background-color: white;
     outline: none;
+    margin:0px;
+    padding:0px;
 }
 
 td {

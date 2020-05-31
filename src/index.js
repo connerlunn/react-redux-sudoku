@@ -198,7 +198,7 @@ class Sudoku extends React.Component {
         this.fetchSudoku()
         return ( 
             <div >
-                <h1>React/Redux Sudoku App</h1>
+                <h1>React/Redux Sudoku</h1>
                 <Grid />
                 <div className='inline'>
                     <button onClick={this.fetchSudoku} className='bottomButtons'>New Sudoku</button>
